@@ -1,0 +1,24 @@
+📝 Task: Build a Generic Pair Class
+Objective:  
+Create a template class Pair<T> that stores two values of the same type and provides operations to:
+
+Return the larger of the two values.
+
+Swap the two values.
+
+Print them neatly.
+
+🔧 Requirements
+Define a template class Pair<T> with two private members first and second.
+
+Add a constructor to initialize them.
+
+Implement:
+
+T getMax() → returns the larger of the two.
+
+void swapValues() → swaps first and second.
+
+Overload << operator to print the pair.
+
+Test the class with different types (int, double, string).
