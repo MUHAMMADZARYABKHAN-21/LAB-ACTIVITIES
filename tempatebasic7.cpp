@@ -36,3 +36,7 @@ int main() {
     cout << "Fraction f2: " << f2.getNumerator() << "/" << f2.getDenominator() << endl;
 
     double d1 = f1;   // uses operator
+    double d2 = f2;   // uses operator
+    cout << "f1 as double: " << d1 << endl;
+    cout << "f2 as double: " << d2 << endl;
+}
