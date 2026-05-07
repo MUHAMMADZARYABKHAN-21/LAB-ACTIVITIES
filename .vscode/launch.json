@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/zarya/OneDrive/Desktop/template",
       "program": "c:/Users/zarya/OneDrive/Desktop/template/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/zarya/OneDrive/Desktop/oop quiz",
+      "program": "c:/Users/zarya/OneDrive/Desktop/oop quiz/build/Debug/outDebug",
+>>>>>>> b6b5fcc0d7629a73448f7d0b1541bc3d91f02d91
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
